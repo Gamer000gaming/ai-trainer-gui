@@ -26,3 +26,8 @@ I will try to review all pull requests.
 It's an easy to use GUI to train and watch an AI play games.
 ### Is it easy to use?
 Yes, it's very easy. You open it, you choose the env and you train.
+
+## Support the project
+If you found this project useful, you can send crypto to my wallets. The best free way to support it is to star the project.
+VRSC: RJRDMNU8pVpinfY2t13NFaBAQ8m1vjw3G3
+XMR: 45xLskuFyeeVdvTe5p8AXyJziLKaZYtsM3PWPs9THonpQsyZirnT5J95Jm5W9W57fz2BrbyyxNZx13UJu2pMTuQdME1mKwe
