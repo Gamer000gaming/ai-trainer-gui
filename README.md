@@ -10,7 +10,11 @@ A very cool and easy to use Python program that helps you train AIs on games. It
 - A button to launch a random player (a player that plays random things)
 
 ## Step-by-step guide
-- If it's the first time, run `pip install -r requirements.txt`
+- If it's the first time, run these commands:
+```bash
+pip install -r requirements.txt
+AutoROM -y
+```
 - Launch the program.
 - Enter the name of the environment and click "Load env". The CartPole env is good for testing. To see a list of environments, go read the [Gymnasium Documentation](https://gymnasium.farama.org/)
 - Enter the amount of training frames. 10000 is very good for CartPole, it will be fast.
