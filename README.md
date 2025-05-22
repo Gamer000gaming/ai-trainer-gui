@@ -1,5 +1,5 @@
 # AI trainer GUI
-A very cool and easy to use Python program that helps you train AIs on games. It is 100% GUI so very beginner-friendly.
+A very cool and easy to use Python program that helps you train AIs on games. It is 100% GUI and very beginner-friendly.
 ## Features
 - Train an AI on almost any Gymnasium env
 - See if the training process will burn your computer
@@ -29,5 +29,7 @@ Yes, it's very easy. You open it, you choose the env and you train.
 
 ## Support the project
 If you found this project useful, you can send crypto to my wallets. The best free way to support it is to star the project.
+
 VRSC: RJRDMNU8pVpinfY2t13NFaBAQ8m1vjw3G3
+
 XMR: 45xLskuFyeeVdvTe5p8AXyJziLKaZYtsM3PWPs9THonpQsyZirnT5J95Jm5W9W57fz2BrbyyxNZx13UJu2pMTuQdME1mKwe
