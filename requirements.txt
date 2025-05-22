@@ -1,4 +1,6 @@
 gymnasium
+gymnasium[atari, accept-rom-license]
+autorom[accept-rom-license]
 stable-baselines3
 ale-py
 imageio
