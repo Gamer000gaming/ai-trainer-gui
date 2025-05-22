@@ -2,7 +2,7 @@
 A very cool and easy to use Python program that helps you train AIs on games. It is 100% GUI and very beginner-friendly.
 ## Features
 - Train an AI on almost any Gymnasium env
-- See if the training process will burn your computer
+- See the training ETA and percentage
 - Generate a GIF that show the AI playing the game
 
 ## Planned features
